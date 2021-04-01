@@ -6,8 +6,10 @@ Anyway... The docker tutorial is fairly hard to follow for people who are runnin
 
 Turns out, a TON of people are having issues with this part of the tutorial. Here's how I know this:
 
+This is what the average page looks like on the tutorial documentation. Easy to understand, and I love the transparency of this.
 ![This is what the average page in the tutorial documentation looks like](https://github.com/MSoup/randomNotes/blob/main/images/bind-mounts/Persisting%20data.JPG)
 
+Oh...
 ![And this is actually what the Bint Mounts page looks like. Yikes!](https://github.com/MSoup/randomNotes/blob/main/images/bind-mounts/Mount.JPG)
 
 I imagine the issues stem from a combination of two things:
