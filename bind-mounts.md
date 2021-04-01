@@ -1,6 +1,7 @@
 # Docker - Using Bind Mounts: error Couldn't find a package.json file in "/app"
 
-Who would've thought my first real documentation would be on such an obscure topic?
+Edit: This is more of a rant in a markdown file, I can't possibly call this documentation. Forgive me. 
+Who would've thought my first real post would be on such an obscure topic?
 
 Anyway... The docker tutorial is fairly hard to follow for people who are running on Windows 10, so I am writing this to address some of the potential issues that may arise when following the documentation on this specific docker tutorial page: [part 6 - using bind mounts](https://docs.docker.com/get-started/06_bind_mounts/). Think of it as an extended documentation page for Windows 10 users.
 
@@ -30,7 +31,7 @@ If you wish to follow along with my exact setup, you will need:
 
 - [Hyper-V and Containers](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/quick-start/enable-hyper-v) Windows features must be enabled (might be enabled by default, but please double check). 
 
-This is part documentation and part me complaining about my journey to resolving my issue. Hopefully this can be of use to future readers. Let's follow along the documentation for now. I'll elaborate when I can to make the documentation even just a little bit clearer.
+Hopefully this can be of use to future readers. Let's follow along the documentation for now. I'll elaborate when I can to make the documentation even just a little bit clearer.
 
 ### Step 1: Make sure no other getting-started containers are running
 
